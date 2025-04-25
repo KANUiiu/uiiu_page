@@ -2,6 +2,8 @@ html, body, #app {
     margin: 0;
     padding: 0;
     height: 100%;
+    width: 100%;
+    overflow-x: hidden; /* 防止橫向滾動條 */
 }
 
 @tailwind base;
