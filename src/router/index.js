@@ -5,7 +5,7 @@ import AboutView from '@/views/AboutView.vue'
 import ProjectsView from '@/views/ProjectsView.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/uiiu_page/'),
   routes: [
     { path: '/', name: 'home', component: HomeView },
     { path: '/about', name: 'about', component: AboutView },
