@@ -1,0 +1,66 @@
+{
+    "menu": {
+      "home": "HOME",
+      "about": "ABOUT",
+      "projects": "PROJECTS"
+    },
+    "mode": {
+      "light": "LIGHT MODE",
+      "dark": "DARK MODE"
+    },
+    "home":{
+      "greeting": "Hi, this is Uiiu",
+      "title": "A front-end developer specializing in",
+      "description_a": "With fundamental knowledge of ",
+      "description_b": "And experience working with"    
+    },
+    "about": {
+      "greeting": "Hello.",
+      "title": "My name is Kan Uiiu.",
+      "description": [
+        "I’m new to",
+        "and passionate about learning new skills. This website, along with some of my current projects, is mainly built with",
+        ". In the future, I’m looking forward to expanding my knowledge of other JavaScript frameworks like",
+        ", as well as backend technologies such as ",
+        " and ",
+        "."
+      ],
+      "keywords": ["web development", "Vue", "React", "Express", "Nuxt"],
+      "description_b": [
+        "Besides developing, I sometimes do ",
+        " to challenge myself with problem solving. Feel free to check out my Codewars profile."
+      ],
+      "keywords_b": ["Codewars"],
+      "description_c": [
+        "Outside of coding, I am interested in ",
+        ", ",
+        ", and ",
+        ". I speak Taiwanese, Mandarin Chinese, English, a bit of French, and some ",
+        "—an indigenous language of Taiwan. Since 2021, I’ve also been contributing to the ",
+        ", supporting language revitalization and free knowledge sharing."
+      ],
+      "keywords_c": [
+        "language learning",
+        "literature",
+        "hip-hop music",
+        "Paiwan",
+        "Paiwan Wikimedians User Group"
+      ] 
+    },
+    "project_a": {
+      "label": "TEN THIRTY",
+      "description": "A simple game I played with poker cards as a child, designed with basic JavaScript logic."
+    },
+    "project_b": {
+      "label": "FIND TRA",
+      "description": "This project helps users in Taiwan find the nearest TRA station by searching an address, using OpenStreetMap data to compare station coordinates."
+    },
+    "project_c": {
+      "label": "Weather Today",
+      "description": "An app for checking real-time weather in any city using the OpenWeather API."
+    },
+    "projects": {
+      "title": "PROJECTS",
+      "description": "More projects will be updated soon."
+    }
+}

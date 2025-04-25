@@ -1,0 +1,69 @@
+{
+    "menu": {
+      "home": "首頁",
+      "about": "關於我",
+      "projects": "專案"
+    },
+    "mode": {
+      "light": "亮背景",
+      "dark": "暗背景"
+    },
+    "home":{
+      "greeting": "嗨，我是維佑",
+      "title": "前端開發者，主要使用",
+      "description_a": "另外也具備這些技術",
+      "description_b": "還有一些資料庫經驗"      
+    },
+    "about": {
+        "greeting": "嗨",
+        "title": "我叫簡維佑",
+        "description": [
+          "我雖然是",
+          "新手，但樂於學習新技術。目前主要以",
+          "進行開發。成果包含這個網站和一些我的其他專案。未來將繼續探索其他JavaScript框架，例如",
+          "。當然，我也期待能增進後端技術，像是",
+          "以及",
+          "。"
+        ],
+        "keywords": ["網站開發", "Vue", "React", "Express", "Nuxt"],
+          "description_b": [
+          "除了網站開發，我偶爾會上",
+          "來挑戰我的問題解決能力。歡迎到我的 Codewars 頁面逛逛。"
+        ],
+        "keywords_b": ["Codewars"],
+        "description_c": [
+          "寫程式以外的興趣是",
+          "、",
+          "和",
+          "。我會講台語、中文、英語還有一點法語跟",
+          "(台灣原住民語言)。我從2021年開始跟著",
+          "一起進行語言復振同時也推廣開放知識。"
+        ],
+        "keywords_c": [
+          "語言學習",
+          "文學",
+          "嘻哈音樂",
+          "排灣語",
+          "排灣維基用戶組"
+        ] 
+    },
+    "project_a": {
+      "label": "十 點 半",
+      "description": "一個我小時候玩的撲克牌小遊戲。使用簡單JavaScript邏輯來完成遊戲設計。"
+    },
+    "project_b": {
+      "label": "找 台 鐵",
+      "description": "用地址來查詢距離最近的台鐵車站。練習串接OpenStreetMap的地圖資料來比對台鐵車站座標。"
+    },
+    "project_c": {
+      "label": "天 氣 APP",
+      "description": "可以查詢城市的即時天氣。練習串接OpenWeather API。"
+    },
+    "projects": {
+      "title": "我的專案",  
+      "description": "近期將新增更多專案。敬請期待。"
+    }
+}
+
+
+  

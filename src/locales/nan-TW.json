@@ -1,0 +1,68 @@
+{
+    "menu": {
+      "home": "Thâu-ia̍h",
+      "about": "Siāu-kài",
+      "projects": "Choan-àn"
+    },
+    "mode": {
+      "light": "Kng Pōe-kéng",
+      "dark": "Àm Pōe-kéng"
+    },
+    "home":{
+      "greeting": "Lí-hó, góa sī Ûi-iū",
+      "title": "Choan-bûn chò FRONT-END khai-hoat, chú-iàu ēng",
+      "description_a": "Lēng-gōa mā liáu-kái chiah ê ki-su̍t:",
+      "description_b": "Mā ū chhú-lí chu-liāu-khò͘ ê keng-giām:"      
+    },
+    "about": {
+      "greeting": "Gâu-chá.",
+      "title": "Góa hō-chò Kán Ûi-iū",
+      "description": [
+        "Góa taⁿ tú khai-sí teh o̍h",
+        ". Chiap-chhiok sin ê ki-su̍t tùi góa lâi kóng chin chhù-bī. Chit-má chú-iàu ēng",
+        "teh chò bāng-chām: bo̍k-chêng ê sêng-kó pau-koah chit ê bāng-chām kap góa kî-thaⁿ ê choan-àn. Bī-lâi hi-bāng ē-tàng ha̍k-si̍p pa̍t-khoán ê JavaScript frameworks, chhin-chhiūⁿ",
+        ". Tong-jiân mā ǹg-bāng ē-tàng chìn chi̍t pō͘ lâi o̍h BACK-ENG ê ki-su̍t, chhin-chhiūⁿ",
+        " a̍h-sī ",
+         "."
+        ],
+      "keywords": ["bāng-chām khai-hoat", "VUE", "REACT", "EXPRESS", "NUXT"],
+      "description_b": [
+        "Besides developing, I sometimes do ",
+        " to challenge myself with problem solving. Feel free to check out my Codewars profile."
+        ],
+      "keywords_b": ["Codewars"],
+      "description_c": [
+        "Outside of coding, I am interested in ",
+        ", ",
+        ", and ",
+        ". I speak Taiwanese, Mandarin Chinese, English, a bit of French, and some ",
+        "—an indigenous language of Taiwan. Since 2021, I’ve also been contributing to the ",
+        ", supporting language revitalization and free knowledge sharing."
+        ],
+      "keywords_c": [
+        "language learning",
+        "literature",
+        "hip-hop music",
+        "Paiwan",
+        "Paiwan Wikimedians User Group"
+        ] 
+    },
+    "project_a": {
+      "label": "10 TIÁM PÒAⁿ",
+      "description": "Che sī gún sè-hàn sî iōng khe-chí-phang lâi teh sńg chhit-thô ê. Sī ēng kán-tan ê JavaScript só͘ siat-kè ê."
+    },
+    "project_b": {
+      "label": "CHHŌE TÂI-THIH",
+      "description": "Khí chi̍t chōa tē-chí tio̍h ē-tàng chhōe tio̍h lī hia siōng kīn ê Tâi-thih hóe-chhia-thâu. Chiap OpenStreetMap ê tē-tô͘ chu-liāu lâi pí-tùi Tâi-thih chhia-chām ê ūi-tì."
+    },
+    "project_c": {
+      "label": "KÁM HÓ-THIⁿ",
+      "description": "Ē-tàng sûi-sî chhâ jīm-hô siâⁿ-chhī ê thiⁿ-khì. Liān-si̍p chiap OpenWeather ê API."
+    },
+    "projects": {
+      "title": "CHOAN-ÀN",
+      "description": "Liâm-mi ē koh keng-sin kî-thaⁿ choan-àn."
+    }
+}
+  
+
